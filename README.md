@@ -10,12 +10,12 @@ included: learning algorithm for the player VS ai mode.
 IMPLEMENTING the "MiniMax algorithm" for the next-move calculation of the ai,
 and the "Evolutionary algorithm" for comptuer learning,
 
-![exemple_image_1](https://ibb.co/9wx34rS)
-![exemple_image_2](https://ibb.co/4sSN0Qb)
-![exemple_image_3](https://ibb.co/0cdn1b2)
-![exemple_image_4](https://ibb.co/4J71Z3X)
-![exemple_image_5](https://ibb.co/jzRt9Qd)
-![exemple_image_6](https://ibb.co/Wz74BKP)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cbWX8rV/Game-exm-1.png" alt="Game-exm-1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yhksx3z/Game-exm-2.png" alt="Game-exm-2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/9NCpB5g/Game-exm-3.png" alt="Game-exm-3" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/FnKHbCy/Game-exm-4.png" alt="Game-exm-4" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dtgZsVS/Game-exm-5.png" alt="Game-exm-5" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/kDzsqc9/Game-exm-6.png" alt="Game-exm-6" border="0"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
