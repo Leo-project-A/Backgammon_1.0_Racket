@@ -4,7 +4,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The Popular game of Backgammon, build with Scheme programming language  
+The Popular game of Backgammon, built with Scheme programming language  
 included: learning algorithm for the player VS ai mode.
 
 IMPLEMENTING the "MiniMax algorithm" for the next-move calculation of the ai,  
@@ -22,7 +22,7 @@ and the "Evolutionary algorithm" for comptuer learning,
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-1. currently only avaliable through a scheme compiler. (I used DrRacket)  
+1. currently only available through a scheme compiler. (I used DrRacket)  
     potentially could be converted to C with the "chicken" compiler.  
     *will explore this option in the future.
 
