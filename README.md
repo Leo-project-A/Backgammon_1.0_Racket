@@ -5,7 +5,7 @@
 ## About The Project
 
 The Popular game of Backgammon, built with Scheme programming language  
-included: learning algorithm for the player VS ai mode.
+    included: learning algorithm for the player VS ai mode.
 
 IMPLEMENTING the "MiniMax algorithm" for the next-move calculation of the ai,  
 and the "Evolutionary algorithm" for comptuer learning,
